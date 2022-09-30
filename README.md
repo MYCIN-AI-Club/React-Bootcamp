@@ -12,7 +12,9 @@
 ### Official Post: 
 <a href="https://www.instagram.com/p/CiSxYo7PoJn/">Instagram</a>
 <br><br><br><br>
-#MYCIN-AI
-<br>
-![MYCIN LOGO](https://user-images.githubusercontent.com/76547274/193342819-bc84f078-d7cb-4f99-aeb1-05867a7bdce3.jpg)
+<b> MYCIN-AI</b>
+<br><a href="mycin.in">
+<img src="https://user-images.githubusercontent.com/76547274/193342819-bc84f078-d7cb-4f99-aeb1-05867a7bdce3.jpg" alt="MYCIN LOGO" height="100dp" breath="100dp"></a>
+<br><br>
+Visit Us: <a href="mycin.in">mycin.in</a>
 <br>In case of queries, contact us at <b><a href="mailto:mycin@kiet.edu">mycin@kiet.edu</a></b>.
