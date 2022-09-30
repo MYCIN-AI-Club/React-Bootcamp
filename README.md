@@ -1,6 +1,6 @@
 # React-Bootcamp
 
-## Describe:
+## Description:
 <ul>
 <li>This repository contains projects using react which were submitted on successful completion of React Bootcamp organized by MYCIN-AI Club, Innovation Center KIET between Sep 12, 2022 and Sep 17, 2022.</li>
 <li>Participants are requested to submit their projects in folder (name of folder: <title of project> in Sentence Case) which contains a readme and all codes with all media files used.</li>
