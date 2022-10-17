@@ -23,6 +23,7 @@ function About() {
         <strong> HTML</strong>, <strong>CSS</strong>,{" "}
         <strong>JavaScript</strong>, and <strong>ReactJS!</strong>
       </p>
+      <p>Hope you finding this informative and interesting.</p>
     </div>
   );
 }
