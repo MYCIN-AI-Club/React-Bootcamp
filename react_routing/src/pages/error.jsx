@@ -1,5 +1,9 @@
 function Error() {
-  return <h1 className="text-center">Whoops! This is an invalid URL.</h1>;
+  return (
+    <h1 className="text-center">
+      Whoops! This is an invalid URL. Don't enter custom URLs
+    </h1>
+  );
 }
 
 export default Error;
