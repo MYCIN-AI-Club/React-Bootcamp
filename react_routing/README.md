@@ -1,5 +1,6 @@
 Author: Brahm Dev Pandey
 Course: Master of Computer Applications
+Occassion: HacktoberFest 2022
 Institute: KIET Group of Institutions, Ghaziabad
 
 This a simple project in React to demonstrate some important concepts of React, like:
