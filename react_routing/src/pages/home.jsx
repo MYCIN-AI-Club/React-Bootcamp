@@ -14,6 +14,17 @@ function Home() {
         great developer.
       </p>
       <p>
+        To become a full stack web developer, you need to learn the following
+        concepts:
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Javascript</li>
+          <li>React (for frontend)</li>
+          <li>Node (for backend)</li>
+        </ul>
+      </p>
+      <p>
         This course gives you a unique experience and focus only on front end
         web development. First we will get professional and free web development
         tools, then we will start with <strong>HTML</strong>. Once we cover this
